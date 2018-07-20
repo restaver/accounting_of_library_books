@@ -1,0 +1,2 @@
+This is an application where librarian can monitor the books (where is it now).
+You can add/ delete/ modificate books and readers, add authors and modificate their bio. Also you can monitor the readers to return books in time.
