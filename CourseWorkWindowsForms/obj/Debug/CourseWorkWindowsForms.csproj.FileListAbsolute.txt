@@ -1,0 +1,15 @@
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\bin\Debug\CourseWorkWindowsForms.exe.config
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\bin\Debug\CourseWorkWindowsForms.exe
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\bin\Debug\CourseWorkWindowsForms.pdb
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.csprojResolveAssemblyReference.cache
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.LibraryForm.resources
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.Properties.Resources.resources
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.csproj.GenerateResource.Cache
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.exe
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.pdb
+c:\users\restaver\documents\visual studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.AddBookForm.resources
+C:\Users\Restaver\Documents\Visual Studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.AddAuthorForm.resources
+C:\Users\Restaver\Documents\Visual Studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.BookForm.resources
+C:\Users\Restaver\Documents\Visual Studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.AddReaderForm.resources
+C:\Users\Restaver\Documents\Visual Studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.AuthorForm.resources
+C:\Users\Restaver\Documents\Visual Studio 2017\Projects\CourseWorkWindowsForms\obj\Debug\CourseWorkWindowsForms.ReaderForm.resources
